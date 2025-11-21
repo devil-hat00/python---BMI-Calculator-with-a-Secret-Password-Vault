@@ -22,17 +22,17 @@ Manage passwords safely using the master password.
 2. Simple text-based password storage
 3. Minimal dependencies for easy usage
 
-🚀 Usage
+# 🚀 Usage
 Calculate BMI for yourself or friends.
 Secret pin unlocks your private password manager.
 Secure, simple, and sneaky!
 
-🔐 Security Notes
+# 🔐 Security Notes
 This is a lightweight local password manager.
 Master password is hardcoded for simplicity—change it in the code for better security.
 Always use strong passwords and store sensitive data carefully.
 
-🌟 Contribute
+# 🌟 Contribute
 Contributions are welcome! Feel free to:
 Suggest improvements
 Add features
