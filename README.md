@@ -8,15 +8,15 @@ Ever wanted a password manager that hides in plain sight? This project is a simp
 5. Local password storage in password.txt
 6. Built entirely in Python, no extra dependencies
 
-🎯 How It Works
+# 🎯 How It Works
 
-# Run the program:
+Run the program:
 code : python bmi_password_manager.py
 Normally, it functions as a BMI calculator.
 Enter the secret pin (1234) as your name to launch the password manager.
 Manage passwords safely using the master password.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 1. Python 3
 2. Simple text-based password storage
